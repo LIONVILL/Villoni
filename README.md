@@ -9,9 +9,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=text&text=Стек&fontSize=50&color=8A63D2&fontAlignY=65&height=100&desc=false" />
-</p>
+<h3 align="center">Стек</h3>
 
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E2FE0,100:8A63D2&height=4&width=1000" />
