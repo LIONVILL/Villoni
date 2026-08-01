@@ -20,7 +20,7 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="42" alt="godot logo" />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=maven" height="42" alt="maven logo" />
+  <img src="https://cdn.simpleicons.org/minecraft" height="42" alt="maven logo" />
 </div>
 
 <p align="center">
