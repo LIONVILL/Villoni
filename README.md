@@ -25,17 +25,17 @@
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github" height="42" alt="github logo" />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker logo" />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=linux" height="42" alt="linux logo" />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="42" alt="dotnet logo" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="42" alt="godot logo" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/spigotmc" height="42" alt="spigot logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=github" height="42" alt="github logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker logo" />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=linux" height="42" alt="linux logo" />
   <img width="14" />
 </div>
 
