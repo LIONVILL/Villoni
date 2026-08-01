@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=REPLACE_WITH_YOUR_USERNAME&style=flat-square&color=8A63D2" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LIONVILL&style=flat-square&color=8A63D2" alt="profile views" />
 </p>
 
 <p align="center">
@@ -116,7 +116,7 @@ api: Paper API / Spigot API
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=REPLACE_WITH_YOUR_USERNAME&theme=radical&hide_border=true&background=00000000&fire=8A63D2&ring=6E2FE0&currStreakLabel=8A63D2" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LIONVILL&theme=radical&hide_border=true&background=00000000&fire=8A63D2&ring=6E2FE0&currStreakLabel=8A63D2" />
 </p>
 
 <p align="center">
@@ -125,9 +125,9 @@ api: Paper API / Spigot API
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/REPLACE_WITH_YOUR_USERNAME/REPLACE_WITH_YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/REPLACE_WITH_YOUR_USERNAME/REPLACE_WITH_YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/REPLACE_WITH_YOUR_USERNAME/REPLACE_WITH_YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LIONVILL/LIONVILL/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LIONVILL/LIONVILL/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/LIONVILL/LIONVILL/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
