@@ -12,7 +12,7 @@
 
 
 
-<h3 align="center">СТЕК</h3>
+<h3 align="center">STACK</h3>
 
 
 
