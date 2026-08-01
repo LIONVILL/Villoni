@@ -36,7 +36,6 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="42" alt="dotnet logo" />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=redis" height="42" alt="redis logo" />
 </div>
 
 <p align="center">
