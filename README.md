@@ -14,7 +14,7 @@
 <!-- <h3 align="center">🛠️ Стек</h3> -->
 
 <p align="center">
-  <img height="35" src="https://img.shields.io/badge/Language-8A63D2?style=flat&logoColor=white" />
+  <img height="70" src="https://img.shields.io/badge/Language-8A63D2?style=flat&logoColor=white" />
 </p>
 
 <div align="center">
