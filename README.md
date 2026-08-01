@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E2FE0,100:8A63D2&height=200&section=header&text=welcome%20to%20my%20chaos&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20%2F%20%20%2F%20Minecraft%20Plugins%20%2F%20Godot%204&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A63D2&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+backend-dev;Minecraft+plugin+developer+(Paper%2FSpigot);C%23+%2B+Godot+4+game-dev;Собираю+то%2C+что+должно+работать+без+лагов" alt="Typing SVG" />
-</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LIONVILL&style=flat-square&color=8A63D2" alt="profile views" />
