@@ -120,7 +120,7 @@ api: Paper API / Spigot API
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LIONVILL/LIONVILL/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LIONVILL/LIONVILL/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/LIONVILL/LIONVILL/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github-readme-activity-graph.vercel.app/graph?username=LIONVILL&theme=react-dark&hide_border=true" />
   </picture>
 </p>
 
@@ -130,6 +130,6 @@ api: Paper API / Spigot API
   <img src="https://img.shields.io/badge/Godot%204-C%23-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
 </p>
 
-<p align="center"><i>«Работает на моей машине» — и на проде тоже, потому что я это тестирую 🐉</i></p>
+<p align="center"><i>«Работает на моей машине» - и на проде тоже, потому что я это тестирую 🐉</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A63D2,100:6E2FE0&height=100&section=footer" width="100%"/>
