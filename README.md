@@ -14,6 +14,10 @@
 
 <h3 align="center">Стек</h3>
 
+
+
+<h3 align="center"> </h3>
+
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E2FE0,100:8A63D2&height=4&width=1000" />
 </p> -->
