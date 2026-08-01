@@ -53,54 +53,6 @@
 
 <br>
 
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E2FE0,100:8A63D2&height=4&width=1000" />
-</p>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-### ☕ Backend
-```yaml
-язык: Java
-фреймворк: Spring Boot
-фокус:
-  - REST API
-  - микросервисы
-  - работа с БД
-  - безопасность
-```
-
-</td>
-<td valign="top" width="50%">
-
-### ⛏️ Minecraft
-```yaml
-api: Paper API / Spigot API
-плагины:
-  - экономика
-  - PvP-механики
-  - кастомные ивенты
-  - античит
-девиз: "TPS важнее, чем сон"
-```
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 🎮 GameDev
-```yaml
-движок: Godot 4
-язык: C#
-статус: "делаю что-то своё, пока Spring компилируется"
-```
-
-</td>
-</tr>
-</table> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E2FE0,100:8A63D2&height=4&width=1000" />
@@ -114,13 +66,7 @@ api: Paper API / Spigot API
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E2FE0,100:8A63D2&height=4&width=1000" />
 </p>
 
-<!-- <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LIONVILL/LIONVILL/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LIONVILL/LIONVILL/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github-readme-activity-graph.vercel.app/graph?username=LIONVILL&theme=react-dark&hide_border=true" />
-  </picture>
-</p> -->
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-100%25-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -128,6 +74,5 @@ api: Paper API / Spigot API
   <img src="https://img.shields.io/badge/Godot%204-C%23-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
 </p>
 
-<p align="center"><i>«Работает на моей машине» - и на проде тоже, потому что я это тестирую 🐉</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A63D2,100:6E2FE0&height=100&section=footer" width="100%"/>
