@@ -116,13 +116,13 @@ api: Paper API / Spigot API
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6E2FE0,100:8A63D2&height=4&width=1000" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LIONVILL/LIONVILL/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LIONVILL/LIONVILL/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://github-readme-activity-graph.vercel.app/graph?username=LIONVILL&theme=react-dark&hide_border=true" />
   </picture>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-100%25-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
