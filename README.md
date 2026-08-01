@@ -72,6 +72,8 @@
 <img src="https://img.shields.io/badge/LANGUAGES%2FSpigot-8A63D2?style=plastic&logoColor=white" />
 </p>
 
+<img src="https://img.shields.io/badge/Работаю_с_Paper%2FSpigot-8A63D2?style=flat&logoColor=white" />
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-100%25-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
