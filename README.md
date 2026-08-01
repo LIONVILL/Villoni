@@ -21,6 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="42" alt="godot logo" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/spigotmc" height="42" alt="spigot logo" />
+  <img width="14" />
 </div>
 
 <p align="center">
@@ -48,6 +49,7 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" height="42" alt="visualstudio logo" />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="vscode logo" />
+  <img width="14" />
 </div>
 
 <br>
