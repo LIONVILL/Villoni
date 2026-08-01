@@ -28,13 +28,11 @@
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo" />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=github" height="42" alt="github logo" />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker logo" />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgresql logo" />
+  <img src="https://simpleicons.org/icons/linux.svg" height="42" alt="linux logo" />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo" />
   <img width="14" />
