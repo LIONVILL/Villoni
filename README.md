@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E2FE0,100:8A63D2&height=200&section=header&text=welcome%20to%20my%20chaos&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20%2F%20%20%2F%20Minecraft%20Plugins%20%2F%20Godot%204&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E2FE0,100:8A63D2&height=200&section=header&text=welcome%20to%20my%20chaos&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20%2F%20c%23%20%2F%20SpigotAPI%20%2F%20Godot%20v4&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 
