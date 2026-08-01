@@ -19,13 +19,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" alt="spring logo" />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=cs" height="42" alt="csharp logo" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="42" alt="godot logo" />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="42" alt="gradle logo" />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=maven" height="42" alt="maven logo" />
 </div>
