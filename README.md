@@ -34,7 +34,7 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=linux" height="42" alt="linux logo" />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="42" alt="dotnet logo" />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=redis" height="42" alt="redis logo" />
 </div>
