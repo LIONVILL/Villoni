@@ -32,7 +32,7 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker logo" />
   <img width="14" />
-  <img src="https://simpleicons.org/icons/linux.svg" height="42" alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=linux" height="42" alt="linux logo" />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo" />
   <img width="14" />
