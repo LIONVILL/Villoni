@@ -68,11 +68,11 @@
 </p>
 
 
+
 <p align="center">
-<img src="https://img.shields.io/badge/LANGUAGES%2FSpigot-8A63D2?style=plastic&logoColor=white" />
+<img src="https://img.shields.io/badge/LANGUAGE%2FSpigot-8A63D2?style=flat&logoColor=white" />
 </p>
 
-<img src="https://img.shields.io/badge/Работаю_с_Paper%2FSpigot-8A63D2?style=flat&logoColor=white" />
 
 
 <p align="center">
