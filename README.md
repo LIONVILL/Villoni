@@ -70,7 +70,7 @@
 
 
 <p align="center">
-<img src="https://img.shields.io/badge/LANGUAGE%2FSpigot-8A63D2?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/LANGUAGE%8A63D2?style=flat&logoColor=white" />
 </p>
 
 
